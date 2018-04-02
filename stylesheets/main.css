@@ -1,0 +1,93 @@
+nav a {
+  color: #DCDCDC;
+}
+
+h1 {
+  font-size: 20px;
+}
+.container-nav {
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  width: 100%;
+  background-color: black;
+}
+
+
+.upper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+.lower {
+  align-items: flex-end;
+  display: flex;
+  flex-grow: 1;
+}
+
+.nav-item {
+  flex-grow: 1;
+}
+.nav-item {
+  flex-grow: 1;
+}
+
+.nav-item {
+  flex-grow: 1;
+}
+.nav-item-4 {
+ flex-grow: 2;
+ display: flex;
+ justify-content: flex-end;
+}
+
+.container-header {
+  display: flex;
+  height: 75px;
+  background-color: #DCDCDC;
+  align-items: center;
+}
+
+.main-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 45px;
+}
+
+.card {
+  flex-grow: 2;
+  height: 600px;
+  margin: 5px;
+  width: 400px;
+  border: 2px solid #DCDCDC;
+}
+
+.head-card-1 {
+  height: 60px;
+  background-image: url("../images/dtrump.jpg");
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
+.head-card-1 {
+  background-image: url();
+}
